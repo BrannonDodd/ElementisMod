@@ -1,0 +1,13 @@
+#Keys
+keys.elementismod.category=Elementis Mod
+keys.elementismod.charge=Charged
+keys.elementismod.release=Released
+
+#Item Localizations
+item.elementismod:UnPurifiedWaterJewel.name=UnPurified Water Jewel
+
+ #Block Localizations
+tile.elementismod:UnPurifiedWaterJewelOre.name=UnPurified Water Jewel Ore
+
+#Creative Tab Localizations
+itemGroup.elementismod=Elementis Extremis

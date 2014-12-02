@@ -1,0 +1,22 @@
+[
+{
+  "modid": "Elementis",
+  "name": "Elementis Extremis",
+  "description": "Play with elements! Become a god to all those peasants",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Brannon Dodd",
+
+  ],
+  "credits": "Brannon Dodd",
+  "logoFile": "assets/elementis/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
